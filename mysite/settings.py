@@ -149,7 +149,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
-    "https://users-f79dc833fdb1.herokuapp.com",
+    "https://users-f79dc833fdb1.herokuapp.com/user",
     "http://localhost:8000",
     "http://localhost:3000",
     "http://localhost:5432",
